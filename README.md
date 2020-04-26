@@ -1,2 +1,3 @@
 # MyfirstRepository
-Sean's Java Language class.
+
+This is my very first change. 
